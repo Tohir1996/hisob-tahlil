@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.deps_ok
+*.tmp
+
+# Excel va bank ma'lumotlari (maxfiy fayllar kirmasligi uchun)
+*.xlsx
+*.xlsb
+*.xls
+*.csv
+
+# Muhit va loglar
+.venv/
+venv/
+*.log

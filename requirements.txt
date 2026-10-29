@@ -1,0 +1,4 @@
+pandas>=1.5
+openpyxl>=3.0
+pyxlsb>=1.0.10
+xlrd>=2.0
