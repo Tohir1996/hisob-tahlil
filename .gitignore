@@ -5,11 +5,12 @@ __pycache__/
 .deps_ok
 *.tmp
 
-# Excel va bank ma'lumotlari (maxfiy fayllar kirmasligi uchun)
+# Excel va bank ma'lumotlari
 *.xlsx
 *.xlsb
 *.xls
 *.csv
+!29801000800001158333_qaytmagan_tushumlar.xlsx
 
 # Muhit va loglar
 .venv/
